@@ -47,7 +47,7 @@ Busco minha próxima oportunidade em **Suporte de TI, Help Desk ou Infraestrutur
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FibraWalker&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FibraWalker&theme=tokyonight" />
 <img height="165" src="https://streak-stats.demolab.com?user=FibraWalker&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 </div>
